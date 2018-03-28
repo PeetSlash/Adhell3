@@ -12,7 +12,7 @@ android {
     compileSdkVersion 26
 
     defaultConfig {
-        applicationId "com."
+        applicationId "com.dhf.erz58384"
         minSdkVersion 16
         targetSdkVersion 26
         versionCode 1
